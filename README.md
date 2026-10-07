@@ -38,6 +38,9 @@ Use this structure for each finding, or an equivalent structure containing the s
 - Implementation notes:
 ```
 
+
+
+
 ---
 
 ## Tech stack
